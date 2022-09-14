@@ -1,0 +1,15 @@
+C:\Users\semia\OneDrive\Рабочий стол\GB\Знакомство с языками программированиыя\Example_C#\bin\Debug\net6.0\Example_C#.exe
+C:\Users\semia\OneDrive\Рабочий стол\GB\Знакомство с языками программированиыя\Example_C#\bin\Debug\net6.0\Example_C#.deps.json
+C:\Users\semia\OneDrive\Рабочий стол\GB\Знакомство с языками программированиыя\Example_C#\bin\Debug\net6.0\Example_C#.runtimeconfig.json
+C:\Users\semia\OneDrive\Рабочий стол\GB\Знакомство с языками программированиыя\Example_C#\bin\Debug\net6.0\Example_C#.dll
+C:\Users\semia\OneDrive\Рабочий стол\GB\Знакомство с языками программированиыя\Example_C#\bin\Debug\net6.0\Example_C#.pdb
+C:\Users\semia\OneDrive\Рабочий стол\GB\Знакомство с языками программированиыя\Example_C#\obj\Debug\net6.0\Example_C#.csproj.AssemblyReference.cache
+C:\Users\semia\OneDrive\Рабочий стол\GB\Знакомство с языками программированиыя\Example_C#\obj\Debug\net6.0\Example_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semia\OneDrive\Рабочий стол\GB\Знакомство с языками программированиыя\Example_C#\obj\Debug\net6.0\Example_C#.AssemblyInfoInputs.cache
+C:\Users\semia\OneDrive\Рабочий стол\GB\Знакомство с языками программированиыя\Example_C#\obj\Debug\net6.0\Example_C#.AssemblyInfo.cs
+C:\Users\semia\OneDrive\Рабочий стол\GB\Знакомство с языками программированиыя\Example_C#\obj\Debug\net6.0\Example_C#.csproj.CoreCompileInputs.cache
+C:\Users\semia\OneDrive\Рабочий стол\GB\Знакомство с языками программированиыя\Example_C#\obj\Debug\net6.0\Example_C#.dll
+C:\Users\semia\OneDrive\Рабочий стол\GB\Знакомство с языками программированиыя\Example_C#\obj\Debug\net6.0\refint\Example_C#.dll
+C:\Users\semia\OneDrive\Рабочий стол\GB\Знакомство с языками программированиыя\Example_C#\obj\Debug\net6.0\Example_C#.pdb
+C:\Users\semia\OneDrive\Рабочий стол\GB\Знакомство с языками программированиыя\Example_C#\obj\Debug\net6.0\Example_C#.genruntimeconfig.cache
+C:\Users\semia\OneDrive\Рабочий стол\GB\Знакомство с языками программированиыя\Example_C#\obj\Debug\net6.0\ref\Example_C#.dll
